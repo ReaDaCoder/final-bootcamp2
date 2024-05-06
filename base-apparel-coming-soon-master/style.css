@@ -5,3 +5,21 @@
 .logo{
     margin-bottom: 150px;
 }
+h1{
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+}
+.head{
+    color: hsl(0, 36%, 70%);
+}
+.heading{
+    color: hsl(0, 6%, 24%);
+}
+p{
+    color: hsl(0, 36%, 70%);
+}
+form{
+    color: hsl(0, 93%, 68%);
+}
